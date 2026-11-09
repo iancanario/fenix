@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file:///home/ian/Projetos/curso.dev/fenix/pages/index.js"],"sourcesContent":["function Home() {\n    return (\n        <div>\n            <h1>Home</h1>\n            <p>Ta dificil agora, mas vai da certo no final, to dando o melhor de mim pra garantir isso</p>\n        </div>\n    )\n}\nexport default Home;"],"names":["Home"],"mappings":";;;;;;AAAA,SAASA;IACL,qBACI,qKAAC;;0BACG,qKAAC;0BAAG;;;;;;0BACJ,qKAAC;0BAAE;;;;;;;;;;;;AAGf;uCACeA"}}]
+}
