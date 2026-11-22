@@ -3,11 +3,16 @@
   "version": "1.0.0",
   "description": "um projeto com o objetivo de reciclar meu conhecimento",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
   },
   "dependencies": {
     "next": "^16.4.5",
     "react": "^19.3.1",
     "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.10.1"
   }
 }
