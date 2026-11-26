@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 16, "column": 0}, "map": {"version":3,"sources":["file:///home/ian/Projetos/curso.dev/fenix/pages/api/status.js"],"sourcesContent":["function status(req, res) {\n  res.status(200).json({ message: \"API está funcionando corretamente!\" });\n}\n\nexport default status;\n"],"names":["status","req","res","json","message"],"mappings":";;;;AAAA,SAASA,OAAOC,GAAG,EAAEC,GAAG;IACtBA,IAAIF,MAAM,CAAC,KAAKG,IAAI,CAAC;QAAEC,SAAS;IAAqC;AACvE;uCAEeJ"}}]
-}
